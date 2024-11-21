@@ -1,4 +1,5 @@
 >. Buatkan halaman web article, dengan tema article bebas
 >. Lalu push di repo ini dan tambahkan branch sesuai dengan nama kalian
+>. Nama remotenya : origin 
 
 ~~BUATLAH SEMENARIK MUNGKIN!..
